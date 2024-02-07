@@ -2,10 +2,8 @@
 # run  python3 main.py
 # N/A
 # N/A
-# Rebekah Myrick, Francis Sumayop, Joe Pantaliono
-# francissumayop@lewisu.edu, rebekahmyrick@lewisu.edu, josephapantaliono@lewisu.edu
+# Rebekah Myrick, Francis Sumayop, Joe Pantaliono, Matt Crowley, Lance Greenhill
 # CPSC-44000-LT1: Software Engineering
-# Date of submission: 02/05/2023
 # Check for "near misses" of x^n + y^n = z^n
 
 #get n and k from user
